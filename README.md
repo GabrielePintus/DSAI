@@ -12,7 +12,7 @@ Welcome to the homepage of the Master's Degree Program in [Data Science and Arti
 | Statistical Methods | [StatisticalMethods](https://github.com/GabrielePintus/StatisticalMethods) |
 | Machine Learning Operations | [MachineLearningOperations](https://github.com/GabrielePintus/MachineLearningOperations) |
 | High Performance and Cloud Computing | [HighPerformanceCloudComputing](https://github.com/GabrielePintus/HighPerformanceCloudComputing.git) |
-| Global Multiobjective Optimization | [GlobalMultiobjectiveOptimization](https://github.com/GabrielePintus/GlobalMultiobjectiveOptimizaztion) |
+| Global Multiobjective Optimization | [GlobalMultiobjectiveOptimization](https://github.com/GabrielePintus/GlobalMultiobjectiveOptimization) |
 
 
 
