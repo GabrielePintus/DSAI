@@ -1,0 +1,9 @@
+[submodule "StatisticalMethods"]
+	path = StatisticalMethods
+	url = https://github.com/GabrielePintus/StatisticalMethods
+[submodule "HighPerformanceCloudComputing"]
+	path = HighPerformanceCloudComputing
+	url = https://github.com/GabrielePintus/HighPerformanceCloudComputing.git
+[submodule "GlobalMultiobjectiveOptimization"]
+	path = GlobalMultiobjectiveOptimization
+	url = https://github.com/GabrielePintus/GlobalMultiobjectiveOptimization
