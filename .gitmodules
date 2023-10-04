@@ -7,3 +7,6 @@
 [submodule "GlobalMultiobjectiveOptimization"]
 	path = GlobalMultiobjectiveOptimization
 	url = https://github.com/GabrielePintus/GlobalMultiobjectiveOptimization
+[submodule "MachineLearningOperations"]
+	path = MachineLearningOperations
+	url = https://github.com/GabrielePintus/MachineLearningOperations
